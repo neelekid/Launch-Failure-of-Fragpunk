@@ -36,7 +36,7 @@ Steam API / Web  ────►  Python Scrapers  ────►  SQLite Datab
 
 ### 1. The 60-Day Lifecycle Collapse
 ![Lifecycle Collapse](dashboards/1_lifecycle_collapse.png)
-* **Finding:** While *Call of Duty* maintains a stable floor and *The Finals* achieves retention stabilization around Day 25, FragPunk suffers a continuous steep drop without finding a floor in the first 60 days.
+* **Finding:** While *Call of Duty* maintains a stable floor and *The Finals* achieves retention stabilisation around Day 25, FragPunk suffers a continuous steep drop without finding a floor in the first 60 days.
 
 ### 2. Root-Cause Complaint Distribution
 ![Complaint Distribution](dashboards/2_complaint_distribution.png)
