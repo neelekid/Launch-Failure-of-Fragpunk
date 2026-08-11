@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+
+# Raw and Processed Data Files (Don't upload large datasets)
+data/*.db
+
+# Python Cache Files
+__pycache__/
+*.pyc
+
+# Environment & API Key Files
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
